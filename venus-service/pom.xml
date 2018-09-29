@@ -11,5 +11,16 @@
 
     <artifactId>venus-service</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>cn.acyou</groupId>
+            <artifactId>venus-common</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.acyou</groupId>
+            <artifactId>venus-dao</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 </project>
