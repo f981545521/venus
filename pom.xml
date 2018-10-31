@@ -10,7 +10,6 @@
 		<module>venus-main</module>
 		<module>venus-dao</module>
 		<module>venus-service</module>
-		<module>venus-common</module>
 	</modules>
 	<packaging>pom</packaging>
 
